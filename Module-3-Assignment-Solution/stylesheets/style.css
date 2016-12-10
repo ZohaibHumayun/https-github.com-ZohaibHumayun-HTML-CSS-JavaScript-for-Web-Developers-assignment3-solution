@@ -1,0 +1,55 @@
+	body {font-family: 'Average', serif;
+	font-size: 16px;
+}	
+	h1, h2, h3 {
+    font-family: 'Fjalla One', sans-serif;
+	padding: 4rem;
+	}
+.nav > li > a{		text-align: center;
+	margin: 0 auto;}
+.navbar-toggle span{background-color: #E75926}
+.navbar-wrapper{background:#222;}
+.nav > li > a:focus, .nav > li > a:hover { color: #333; background-color: #E75926}
+	  .hero .container {
+	  
+	min-height: 1000px;
+	height:110vh;
+	background: url("../imgs/food_header.jpg") top left no-repeat; background-attachment:fixed;
+	background-size:cover;
+	padding:0!important; margin:0!important;
+	width: 100%!important;
+	min-width: 100%!important;
+	max-width: 100%!important;
+	  }
+		#topl {
+font-size: 5rem;
+	 color:#E75926;
+
+		}
+		#topl span{
+		display: block;
+			font-size: 25rem;
+			padding-top: 10%;
+		}
+	
+.marketing .row img{
+	border: 10px ridge #E75926;
+	
+	}
+.marketing.row h2, .marketing .row img{
+	text-align: center;
+	margin: 0 auto;
+display:block;
+float:none;
+}
+
+.marketing.row h3
+	text-align: center;
+	margin: 0 auto;
+	}
+.menu{ min-height: 700px;
+padding: 2rem;
+
+}	
+.navbar ul li a, a.navbar-brand{ color: #E75926;
+    font-family: 'Fjalla One', sans-serif;}
